@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>bucket.png</file>
+        <file>incoming.png</file>
+        <file>minus.png</file>
+        <file>outgoing.png</file>
+        <file>play.png</file>
+        <file>plus.png</file>
+        <file>questionmark.png</file>
+        <file>sq.jpeg</file>
+        <file>GO.png</file>
+        <file>deep.png</file>
+        <file>matrix.png</file>
+        <file>search.png</file>
+        <file>width.png</file>
+        <file>chain.png</file>
+        <file>pause.png</file>
+        <file>save.png</file>
+        <file>step.png</file>
+        <file>help.png</file>
+        <file>redo.png</file>
+        <file>rect.png</file>
+    </qresource>
+</RCC>

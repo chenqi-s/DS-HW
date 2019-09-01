@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/bucket.png</file>
+        <file>resource/icons.qrc</file>
+        <file>resource/incoming.png</file>
+        <file>resource/minus.png</file>
+        <file>resource/outgoing.png</file>
+        <file>resource/play.png</file>
+        <file>resource/plus.png</file>
+        <file>resource/Qt_ico.rc</file>
+        <file>resource/questionmark.png</file>
+        <file>resource/GO.icon</file>
+        <file>resource/GO.png</file>
+        <file>resource/sq.jpeg</file>
+        <file>resource/deep.png</file>
+        <file>resource/matrix.png</file>
+        <file>resource/search.png</file>
+        <file>resource/width.png</file>
+        <file>resource/chain.png</file>
+        <file>resource/pause.png</file>
+        <file>resource/save.png</file>
+        <file>resource/step.png</file>
+        <file>resource/help.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>helpAlgorithm.html</file>
+        <file>helpLoad.html</file>
+        <file>helpPlay.html</file>
+        <file>helpSave.html</file>
+        <file>helpShow.html</file>
+    </qresource>
+</RCC>
